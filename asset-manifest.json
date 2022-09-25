@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Car/static/css/main.0fe11658.css",
+    "main.js": "/Car/static/js/main.691d06c3.js",
+    "static/media/Car.jpg": "/Car/static/media/Car.386226b94d67d8f61ec5.jpg",
+    "static/media/logo.png": "/Car/static/media/logo.f70e0fd54c87eb476f5b.png",
+    "static/media/HeaderImg.jpg": "/Car/static/media/HeaderImg.ebe15d913896900779cc.jpg",
+    "index.html": "/Car/index.html",
+    "main.0fe11658.css.map": "/Car/static/css/main.0fe11658.css.map",
+    "main.691d06c3.js.map": "/Car/static/js/main.691d06c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe11658.css",
+    "static/js/main.691d06c3.js"
+  ]
+}
